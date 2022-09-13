@@ -1,5 +1,4 @@
-class: Phenomenological
-tags: [Time series characteristics]
+class: Time series
 subclasses:
   - class: non-variable
   - class: variable
