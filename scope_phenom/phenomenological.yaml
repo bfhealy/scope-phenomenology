@@ -2,12 +2,12 @@ class: Time series
 subclasses:
   - class: non-variable
     subclasses:
-        - class: bogus
-          subclasses:
-            - class: galaxy
-            - class: blend
-            - class: bright star
-            - class: ccd artifact
+      - class: bogus
+        subclasses:
+          - class: galaxy
+          - class: blend
+          - class: bright star
+          - class: ccd artifact
   - class: variable
     subclasses:
     - class: periodic
