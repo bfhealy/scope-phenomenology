@@ -4,7 +4,7 @@ subclasses:
     subclasses:
       - class: bogus
         subclasses:
-          - class: galaxy
+          - class: extended
           - class: blend
           - class: bright star
           - class: ccd artifact

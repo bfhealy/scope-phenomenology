@@ -2,7 +2,7 @@
 This module contains the Scope phenomenological taxonomy.
 """
 
-__version__ = '1.2.0'
+__version__ = '1.3.0'
 __all__ = ["__version__", "taxonomy", "name", "provenance"]
 
 import os
